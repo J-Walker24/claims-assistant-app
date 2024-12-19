@@ -1,0 +1,5 @@
+[functions]
+  # Name of the entry point file for the function
+  process-supervisor-report = "index.ts"
+
+
